@@ -1,4 +1,4 @@
-# Docker Container for Steam
+# Docker Container for Steam now with auto sound support!
 
 This container is a work in progress.
 
@@ -69,3 +69,6 @@ I don't think I'm good enough to get this running perfectly on my own. :-)
 * [PixelJunk Monsters via NoVNC](https://i.imgur.com/7FVqXm5.mp4)
 
 
+For runnin use add accex for run_example.sh like this: 
+chmox +x run_example.sh
+And run: ./run_example.sh
